@@ -1,6 +1,6 @@
 # Car AI: A Level Computer Science Project
 
-> **Archived project.** I wrote this for my A Level Computer Science coursework around 2020 and uploaded it here later, after finishing, as a record of my progress. It isn't maintained, and I've kept the code as I submitted it.
+> **Archived project.** I wrote this for my A Level Computer Science coursework and uploaded it here later, after finishing, as a record of my progress. It isn't maintained, and I've kept the code as I submitted it.
 
 ## What it is
 
